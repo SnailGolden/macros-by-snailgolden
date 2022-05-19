@@ -1,0 +1,27 @@
+{
+    "fps": 60.0,
+    "macro": [
+        {
+            "frame": 41,
+            "player_1": {
+                "click": 1,
+                "x_position": 218.10586547851563
+            },
+            "player_2": {
+                "click": 0,
+                "x_position": 0.0
+            }
+        },
+        {
+            "frame": 48,
+            "player_1": {
+                "click": 2,
+                "x_position": 254.45681762695313
+            },
+            "player_2": {
+                "click": 0,
+                "x_position": 0.0
+            }
+        }
+    ]
+}
